@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32611.2
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{6EC3EE1D-3C4E-46DD-8F32-0CC8E7565705}") = "FableBinarySerializationBug.Server", "src\FableBinarySerializationBug.Server\FableBinarySerializationBug.Server.fsproj", "{A94AF211-C38E-4114-9FD3-8A0D15B6771E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A94AF211-C38E-4114-9FD3-8A0D15B6771E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A94AF211-C38E-4114-9FD3-8A0D15B6771E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A94AF211-C38E-4114-9FD3-8A0D15B6771E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A94AF211-C38E-4114-9FD3-8A0D15B6771E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5EC9B01E-37B7-4B44-B6DA-BB351F81DE06}
+	EndGlobalSection
+EndGlobal
